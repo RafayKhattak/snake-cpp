@@ -14,7 +14,7 @@ This is a classic Snake Game implementation in C++ using the Raylib library. The
 ## Installation
 1. Clone the repository:
 ```shell
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/your-username/snake-cpp.git
 ```
 2. Build the game using your C++ compiler (.exe already available in build folder)
 3. Run the executable available in the build folder
